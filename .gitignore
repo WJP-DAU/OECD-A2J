@@ -47,3 +47,20 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+*.RDS
+.DS_Store
+.Rprofile
+2. Data.Rproj
+Code/legal_prob.dta
+Code/OECD data replication.do
+Data/a2j_data.dta
+Data/final_diagnostic_A2J.xlsx
+Data/thailand.dta
+data4grafos.xlsx
+Outcomes/Differences OECD data.xlsx
+Outcomes/legal_prob.dta
+Outcomes/OECD_data_indicators.xlsx
+Outcomes/OECD_input_indicators.xlsx
+Outcomes/replication.xlsx
+Outcomes/replication_eu.xlsx
+renv/settings.json
